@@ -1,0 +1,19 @@
+/* Universal Styles */
+
+  /* Resets margins for all browsers */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ID's */
+
+
+/* Classes */
+
+.center {
+  text-align: center;
+}
+
+/* Media */

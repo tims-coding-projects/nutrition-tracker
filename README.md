@@ -1,6 +1,6 @@
 # nutritionTracker
 
-A web application designed to track daily nutrition intake.
+A web application designed to track nutrition intake.
 
 This is a project I am working on to increase my experience in web design.
 

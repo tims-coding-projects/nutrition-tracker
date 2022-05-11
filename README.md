@@ -4,7 +4,7 @@
 
 This is a project I am working on to increase my experience in web design.
 
-Features I plan to include:
+## Features I plan to include:
 
   - [ ] The ability to input daily values for the food you consume to track the macronutrient content. These values will also be calculated
   to display the average values for each week.

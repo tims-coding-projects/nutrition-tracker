@@ -11,3 +11,8 @@ This is a project I am working on to increase my experience in web design.
 
   - [ ] A page to track your current stock of food, as well as the ability to save the nutrition values for each type of food and utilize
   this to construct a meal plan which calculates the nutrition value for each meal.
+
+---
+
+***This project is licensed under the terms of the GNU GENERAL PUBLIC LICENSE
+     Version 3***
